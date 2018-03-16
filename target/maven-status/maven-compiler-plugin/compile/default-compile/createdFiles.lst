@@ -1,0 +1,8 @@
+com/xumpy/autoreplybot/Main.class
+com/xumpy/autoreplybot/messages/BotController.class
+com/xumpy/autoreplybot/controller/AutoReplyController.class
+com/xumpy/autoreplybot/dao/AutoReplyDao.class
+com/xumpy/autoreplybot/model/AutoReplyEntity.class
+com/xumpy/autoreplybot/messages/ReplyMessage.class
+com/xumpy/autoreplybot/AutoReplyBot.class
+com/xumpy/autoreplybot/messages/AutoReplyManager.class
